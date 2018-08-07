@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\Taller_programacion_2_Menu_1\Taller_programacion_2_Menu_1\bin\Debug\Taller_programacion_2_Menu_1.exe.config
+C:\Users\Mauricio M\Downloads\Taller_programacion_2_Menu_1\Taller_programacion_2_Menu_1\bin\Debug\Taller_programacion_2_Menu_1.exe
+C:\Users\Mauricio M\Downloads\Taller_programacion_2_Menu_1\Taller_programacion_2_Menu_1\bin\Debug\Taller_programacion_2_Menu_1.pdb
+C:\Users\Mauricio M\Downloads\Taller_programacion_2_Menu_1\Taller_programacion_2_Menu_1\obj\Debug\Taller_programacion_2_Menu_1.exe
+C:\Users\Mauricio M\Downloads\Taller_programacion_2_Menu_1\Taller_programacion_2_Menu_1\obj\Debug\Taller_programacion_2_Menu_1.pdb
